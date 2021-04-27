@@ -17,8 +17,8 @@
 
 
 - __Name__         : Pranshu Yadav  
-  __About__        : A pre-final year Computer Science undergrad. I am into competitve programming and a Web Developer. I like to explore new technologies.<br/>
-  __Tech Stack__   : Python, C/C++, Java, DBMS, HTML, CSS, JavaScript , Bootstrap, OpenCV ,Tensorflow, Keras,.<br/>
+  __About__        : A third year Computer Science undergrad. I am into competitve programming and a Web Developer. I like to explore new technologies.<br/>
+  __Tech Stack__   : Python, C/C++, Java, DBMS, HTML, CSS, JavaScript , Bootstrap, OpenCV.<br/>
   __Social Links__ : [Linkedin](https://www.linkedin.com/in/pranshu-yadav-720a581a4/) | [Github](https://github.com/pranshu200) | [Twitter](https://twitter.com/Pranshu_Yadav_) | [Instagram](https://www.instagram.com/pranshu_018_/)
  
   __Portfolio__    : [Resume](https://drive.google.com/file/d/1DMgPt1Q40Fq_smhqqXYjFJ320r1LLkRK/view?usp=sharing)
