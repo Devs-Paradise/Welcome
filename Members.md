@@ -30,3 +30,13 @@
  __Tech Stack__    : Python, C/C++, HTML, CSS, Bootstrap, SQL, JavaScript, DSA.<br/>    
  
  __Social Links__  :  <a href="https://www.linkedin.com/in/antrajoshi/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a> <a href="https://twitter.com/AntraJoshi8"><img src="https://user-images.githubusercontent.com/57597700/115221648-86112880-a127-11eb-8298-18349120b44b.png" width=30></a> <a href="https://github.com/AntraJoshi"><img src="https://user-images.githubusercontent.com/57597700/115221750-9e814300-a127-11eb-87ad-9829817b7a36.png" width=30></a> <a href="mailto: antrajoshi107@gmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
+
+
+- __Name__         : Swapnil Rawat        
+ __About__         : A pre-final year Computer Science undergraduate student passionate in Cloud Computing and Web Development. I am always curious to learn new things.<br/>
+ __Tech Stack__    : React Js, C/C++, Node Js, MongoDb, Js/Ts, Python, Docker, AWS<br/>    
+ 
+ __Social Links__  :  <a href="https://www.linkedin.com/in/swapnil-rawat-82623916a/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a> <a href="https://twitter.com/XavierGreek"><img src="https://user-images.githubusercontent.com/57597700/115221648-86112880-a127-11eb-8298-18349120b44b.png" width=30></a> <a href="https://www.instagram.com/swapnil_r17/"><img src="https://user-images.githubusercontent.com/57597700/115221558-6ed23b00-a127-11eb-90cf-c330432b48e3.png" width=30></a> <a href="https://github.com/swapnilr17"><img src="https://user-images.githubusercontent.com/57597700/115221750-9e814300-a127-11eb-87ad-9829817b7a36.png" width=30></a> <a href="mailto: swapnilr1700@gmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
+
+
+  __Portfolio__    : [Website](https://www.swapnilrawat.me)
