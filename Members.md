@@ -22,3 +22,10 @@
   __Social Links__ : [Linkedin](https://www.linkedin.com/in/pranshu-yadav-720a581a4/) | [Github](https://github.com/pranshu200) | [Twitter](https://twitter.com/Pranshu_Yadav_) | [Instagram](https://www.instagram.com/pranshu_018_/)
  
   __Portfolio__    : [Resume](https://drive.google.com/file/d/1DMgPt1Q40Fq_smhqqXYjFJ320r1LLkRK/view?usp=sharing)
+
+
+
+- __Name__         : Antra Joshi        
+ __About__         : A pre-final year Computer Science undergraduate student passionate in Data Science and Web Development. I love to acquire new knowledge.
+ __Tech Stack__    : Python, C/C++, HTML, CSS, Bootstrap, SQL, JavaScript, DSA.    
+ __Social Links__  : <a href="www.linkedin.com/in/antrajoshi"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a> <a href="https://twitter.com/AntraJoshi8"><img src="https://user-images.githubusercontent.com/57597700/115221648-86112880-a127-11eb-8298-18349120b44b.png" width=30></a> <a href="https://github.com/AntraJoshi"><img src="https://user-images.githubusercontent.com/57597700/115221750-9e814300-a127-11eb-87ad-9829817b7a36.png" width=30></a> <a href="mailto: antrajoshi107@gmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
