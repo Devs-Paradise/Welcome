@@ -55,4 +55,4 @@
   __About__ :           Dev <br/>
   __Tech Stack__ :      Python, Tensorflow, Django, C++, HTML, CSS, JS, SQL <br/>
  
-  __Social Links__ :    <a href="https://www.linkedin.com/in/aman-bahuguna-22b795167/"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png" width=30></a> <a href="https://twitter.com/ammu_00_7"><img src="http://icons.iconarchive.com/icons/social-media-icons/glossy-social/512/Twitter-icon.png" width=30></a> <a href="mailto: amanbahuguna002@gmail.com"><img src="http://www.avaleisure.co.uk/ESW/Images/mail-button.png" width=30></a>
+  __Social Links__ :    <a href="https://www.linkedin.com/in/aman-bahuguna-22b795167/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" width=30></a> <a href="mailto: amanbahuguna002@gmail.com"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width=30></a> <a href="https://twitter.com/ammu_00_7"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-512.png" width=30></a>
