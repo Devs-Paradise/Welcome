@@ -49,3 +49,10 @@
   __Social Links__  :  <a href="https://www.linkedin.com/in/parthdhwajendramishra/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a> <a href="https://twitter.com/parthdhwajendra"><img src="https://user-images.githubusercontent.com/57597700/115221648-86112880-a127-11eb-8298-18349120b44b.png" width=30></a> <a href="https://www.instagram.com/parthdhwajendramishra/"><img src="https://user-images.githubusercontent.com/57597700/115221558-6ed23b00-a127-11eb-90cf-c330432b48e3.png" width=30></a> <a href="https://github.com/parthdhwajendramishra"><img src="https://user-images.githubusercontent.com/57597700/115221750-9e814300-a127-11eb-87ad-9829817b7a36.png" width=30></a> <a href="mailto: parthdhwajendramishra@gmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
 
     __Portfolio__    : [Resume](https://drive.google.com/file/d/1uE62scZKFtCWVspLSdC7KNbYhTe74lMl/view?usp=sharing)
+    
+    
+- __Name__ :           [Aman Bahuguna](https://github.com/ammu-007) <br/>
+  __About__ :           Dev <br/>
+  __Tech Stack__ :      Python, Tensorflow, Django, C++, HTML, CSS, JS, SQL <br/>
+ 
+  __Social Links__ :    <a href="https://www.linkedin.com/in/aman-bahuguna-22b795167/"><img src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png" width=30></a> <a href="https://twitter.com/ammu_00_7"><img src="http://icons.iconarchive.com/icons/social-media-icons/glossy-social/512/Twitter-icon.png" width=30></a> <a href="mailto: amanbahuguna002@gmail.com"><img src="http://www.avaleisure.co.uk/ESW/Images/mail-button.png" width=30></a>
