@@ -56,3 +56,12 @@
   __Tech Stack__ :      Python, Tensorflow, Django, C++, HTML, CSS, JS, SQL <br/>
  
   __Social Links__ :    <a href="https://www.linkedin.com/in/aman-bahuguna-22b795167/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" width=30></a> <a href="mailto: amanbahuguna002@gmail.com"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width=30></a> <a href="https://twitter.com/ammu_00_7"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-512.png" width=30></a>
+  
+  
+   __Name__         : [Om Agrawal](https://github.com/omagrawal1111) <br/>
+  __About__        : A pre-final year Computer Science undergrad. I'm a Machine Learning enthusiast. Looking to collaborate on some cool **Machine Learning** Projects. And I'm an **Open Source contributor**.<br/>
+  __Tech Stack__   : C/C++, HTML, CSS, JS, Python,OpenCV.      
+ 
+  __Social Links__ :   <a href="https://www.linkedin.com/in/om-agrawal-99266a154/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a> <a href="https://twitter.com/omagrawal007"><img src="https://user-images.githubusercontent.com/57597700/115221648-86112880-a127-11eb-8298-18349120b44b.png" width=30></a> <a href="https://www.instagram.com/_omagrawal1_/"><img src="https://user-images.githubusercontent.com/57597700/115221558-6ed23b00-a127-11eb-90cf-c330432b48e3.png" width=30></a> <a href="https://github.com/omagrawal1111"><img src="https://user-images.githubusercontent.com/57597700/115221750-9e814300-a127-11eb-87ad-9829817b7a36.png" width=30></a> <a href="mailto: recruitomagrawal.gehu@gmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
+  
+  __Portfolio__    : [Resume](https://drive.google.com/file/d/1WyVlUErdhYiC04hcWi7jIrBwk5R2Rn_q/view?usp=sharing)
