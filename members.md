@@ -58,7 +58,7 @@
   __Social Links__ :    <a href="https://www.linkedin.com/in/aman-bahuguna-22b795167/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Linkedin_svg-512.png" width=30></a> <a href="mailto: amanbahuguna002@gmail.com"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Email-512.png" width=30></a> <a href="https://twitter.com/ammu_00_7"><img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Twitter_svg-512.png" width=30></a>
   
   
-   __Name__         : [Om Agrawal](https://github.com/omagrawal1111) <br/>
+- __Name__         : [Om Agrawal](https://github.com/omagrawal1111) <br/>
   __About__        : A pre-final year Computer Science undergrad. I'm a Machine Learning enthusiast. Looking to collaborate on some cool **Machine Learning** Projects. And I'm an **Open Source contributor**.<br/>
   __Tech Stack__   : C/C++, HTML, CSS, JS, Python,OpenCV.      
  
