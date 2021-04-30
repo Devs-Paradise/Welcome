@@ -68,7 +68,7 @@
   
   
   
-  - __Name__         : Saksham Sharma       
+- __Name__         : Saksham Sharma       
   __About__         : A pre-final year Computer Science undergraduate student passionate in Android Development , Machine Leaning and React. I am always curious to learn new things.<br/>
   __Tech Stack__    : React Js, C, Android, Java, Kotlin, Firebase, Rest Api, XML, HTML, CSS, Javascript, <br/>    
  
