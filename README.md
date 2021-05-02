@@ -9,7 +9,6 @@ Welcome to Devs-Paradise. This is a open source organization which will contribu
 
 # Our Contributors 💻
 
-✨ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <table>
   <tr>
