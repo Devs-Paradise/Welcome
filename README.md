@@ -1,10 +1,17 @@
 ![Devs-Paradise's-cover](https://user-images.githubusercontent.com/57597700/116229273-ed585980-a773-11eb-8881-dc1b97b98337.png)
 
 
-# Welcome
+# Welcome 
+
 Welcome to Devs-Paradise. This is a open source organization which will contribute pathways and resources to start with Machine Learning, Full Stack Development, Android Development and Data Structures and Algorithms..
 
-# Our Contributors
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/All_Contributors-8-orange.svg?style=flat-square)](#our-contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+✨ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+# Our Contributors 💻
 <table>
   <tr>
     <td align="center"><a href="https://github.com/omagrawal1111"><img src="https://avatars.githubusercontent.com/u/48345993?v=4" width="100px;" alt=""/><br /><sub><b>Om Agrawal</b></sub></a><br /><a href="#content-omagrawal1111" title="Content">🖋</a><a href="https://github.com/Devs-Paradise/Welcome/commits?author=omagrawal1111" title="Documentation">📖</a> </td>
