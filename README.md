@@ -3,3 +3,6 @@
 
 # Welcome
 Welcome to Devs-Paradise. This is a open source organization which will contribute pathways and resources to start with Machine Learning, Full Stack Development, Android Development and Data Structures and Algorithms..
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthdhwajendramishra&layout=compact)](https://github.com/parthdhwajendramishra/github-readme-stats)
