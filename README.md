@@ -2,12 +2,12 @@
 
 
 # Welcome 
-
-Welcome to Devs-Paradise. This is a open source organization which will contribute pathways and resources to start with Machine Learning, Full Stack Development, Android Development and Data Structures and Algorithms..
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/All_Contributors-8-orange.svg?style=flat-square)](#our-contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+Welcome to Devs-Paradise. This is a open source organization which will contribute pathways and resources to start with Machine Learning, Full Stack Development, Android Development and Data Structures and Algorithms..
+
 
 ✨ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
