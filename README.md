@@ -9,9 +9,12 @@
 Welcome to Devs-Paradise. This is a open source organization which will contribute pathways and resources to start with Machine Learning, Full Stack Development, Android Development and Data Structures and Algorithms..
 
 
-✨ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 
 # Our Contributors 💻
+
+✨ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/omagrawal1111"><img src="https://avatars.githubusercontent.com/u/48345993?v=4" width="100px;" alt=""/><br /><sub><b>Om Agrawal</b></sub></a><br /><a href="#content-omagrawal1111" title="Content">🖋</a><a href="https://github.com/Devs-Paradise/Welcome/commits?author=omagrawal1111" title="Documentation">📖</a> </td>
