@@ -7,7 +7,7 @@ Welcome to Devs-Paradise. This is a open source organization which will contribu
 # Our Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/omagrawal1111"><img src="https://avatars.githubusercontent.com/u/48345993?v=4" width="100px;" alt=""/><br /><sub><b>Om Agrawal</b></sub></a><br /><a href="#content-omagrawal1111" title="Content">🖋</a><a href="https://github.com/Devs-Paradise/Welcome/commits?author=omagrawal1111" title="Documentation">📖</a> </td>
+    <td align="center"><a href="https://github.com/omagrawal1111"><img src="https://avatars.githubusercontent.com/u/48345993?v=4" width="100px;" alt=""/><br /><sub><b>Om Agrawal</b></sub></a><br /><a href="#content-omagrawal1111" title="Content">🖋</a><a href="https://github.com/Devs-Paradise/commits?author=omagrawal1111" title="Documentation">📖</a> </td>
     <td align="center"><a href="https://github.com/Ayush12062000"><img src="https://avatars.githubusercontent.com/u/57597700?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Kesarwani</b></sub></a><br /><a href="#content-Ayush12062000" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/pranshu200"><img src="https://avatars.githubusercontent.com/u/65902053?v=4" width="100px;" alt=""/><br /><sub><b>Pranshu Yadav</b></sub></a><br /><a href="#content-pranshu200" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ammu-007"><img src="https://avatars.githubusercontent.com/u/48680638?v=4" width="100px;" alt=""/><br /><sub><b>Aman Bahuguna</b></sub></a><br /><a href="#content-ammu-007" title="Content">🖋</a></td>
